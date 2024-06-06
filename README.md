@@ -54,6 +54,3 @@
 
 Разработка будет вестись в Visual Studio 2019 Community Edition. Это бесплатная IDE от Microsoft, которая работает под Windows. Её можно запустить на MacOS. Разрабатывать код можно будет и под Linux в вашем любимом редакторе.
 
-## Видео
-
-Все уроки записаны на видео и выложены в [YouTube](https://www.youtube.com/watch?v=L2OC525fkGk&list=PLfkikHwnACaXxUu9YGnQQp7VEYcMmuBuq).
